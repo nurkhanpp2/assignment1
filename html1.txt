@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Makhambetjanov Nurkhan - Personal Webpage</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Makhambetjanov Nurkhan</h1>
+        <p>Aspiring Web Developer</p>
+    </header>
+    <section id="bio">
+        <h2>About Me</h2>
+        <img src="1.jpeg" alt="Profile Photo" width="150">
+        <p>Hi, I am Nurkhan. I am 20 years old and currently in my 3rd year studying Management in IT. I was born in Balkhash, where I also completed my schooling.</p>
+    </section>
+    <section id="hobbies">
+        <h2>My Hobbies</h2>
+        <ul>
+            <li>Playing football <img src="football.jpg" alt="Playing football" width="100"></li>
+            <li>Listening to music <img src="music.jpg" alt="Listening to music" width="100"></li>
+            <li>Watching movies and series <img src="films.jpg" alt="Watching movies and series" width="100"></li>
+        </ul>
+    </section>
+    <footer>
+        <p>Contact me: <a href="nurkhan212003@gmail.com">nurkhan212003@gmail.com</a></p>
+        <p><a href="https://www.instagram.com/leomessi/" target="_blank">Instagram</a></p>
+    </footer>
+</body>
+</html>
