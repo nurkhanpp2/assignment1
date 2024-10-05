@@ -1,0 +1,12 @@
+Added Bootstrap CDN:
+I included Bootstrap via a CDN link in the <head> section to use its pre-built styles and components without custom CSS.
+Page Structure:
+Header: Added a header with my name, profession, and a tagline using Bootstrap's classes for text alignment, background, and padding.
+About Me Section: Used a Bootstrap container to format the bio and ensure proper spacing with margin utilities.
+Skills Section: Implemented a list of skills using Bootstrap's list-group component to create a structured and styled list.
+Experience & Education: Similar to the skills section, both experience and education were styled with the list-group to present information cleanly.
+Contact Section: Added a button linking to Lionel Messi's Instagram using Bootstrap’s btn and btn-outline-primary classes, along with a placeholder email.
+Responsive Layout:
+Used Bootstrap’s grid system and utility classes (like container, my-4, etc.) to ensure that the page adjusts smoothly on different screen sizes (desktops, tablets, and mobiles).
+No Custom CSS:
+The page layout and styling were achieved using only Bootstrap’s built-in classes, making the code simpler and easier to maintain.
